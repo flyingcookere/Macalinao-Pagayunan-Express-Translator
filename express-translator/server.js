@@ -75,7 +75,7 @@ app.get("/api/translate", async (req, res) => {
 });
 
 app.get("/health", (req, res) => {
-  res.json({ status: "ok", message: "Server is alive ✅" });
+  res.json({ status: "ok", message: "Server is well and alive!!!" });
 });
 
 app.listen(PORT, () => {
