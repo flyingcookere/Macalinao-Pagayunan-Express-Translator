@@ -1,0 +1,21 @@
+{
+  "name": "macalinao-pagayunan-express-translator",
+  "version": "1.0.0",
+  "description": "Express Translator (Express.js + Nodemon) Activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingcookere/Macalinao-Pagayunan-Express-Translator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/flyingcookere/Macalinao-Pagayunan-Express-Translator/issues"
+  },
+  "homepage": "https://github.com/flyingcookere/Macalinao-Pagayunan-Express-Translator#readme"
+}
